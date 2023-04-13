@@ -1,6 +1,8 @@
 # Name:Sunggin Kim
 # SBUID: 115242616
-
+##################### SCORE ######################
+#######  Score:  9.5/10 --> please use varibales and functions!
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
